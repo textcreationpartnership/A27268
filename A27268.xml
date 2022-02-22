@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behaviour and execution of Robert Green and Lawrence Hill two of the persons condemn'd at the Kings Bench Bar, February 11th, for the most notorious and barbarous murther of Sir Edmondbury Godfrey, the twelth of October last : who suffered at Tyburn on Friday, February 21, 1678/9 : with an account of their lives, conditions, deportment after sentence, discourses with Mr. Ordinary, and other most remarkable circumstances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27268</idno>
+            <idno type="STC">Wing B1704</idno>
+            <idno type="STC">ESTC R22367</idno>
+            <idno type="EEBO-CITATION">12742266</idno>
+            <idno type="OCLC">ocm 12742266</idno>
+            <idno type="VID">93153</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 374:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behaviour and execution of Robert Green and Lawrence Hill two of the persons condemn'd at the Kings Bench Bar, February 11th, for the most notorious and barbarous murther of Sir Edmondbury Godfrey, the twelth of October last : who suffered at Tyburn on Friday, February 21, 1678/9 : with an account of their lives, conditions, deportment after sentence, discourses with Mr. Ordinary, and other most remarkable circumstances.</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678/9 [i.e. 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Having at the publishers request perused this sheet, I do certifie, that the discourses betwixt me and the prisoners, and other matters of fact therein, are truly related. Samuel Smith, Ordinary"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Green, Robert, d. 1679.</term>
+               <term>Hill, Lawrence, d. 1679.</term>
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93153:1"/>
+            <pb facs="tcp:93153:1" rendition="simple:additions"/>
+            <p>THE BEHAVIOUR AND EXECUTION OF <hi>Robert Green</hi> and <hi>Laurence Hill,</hi> Two of the Perſons condemn'd at the Kings-Bench Bar, <hi>February</hi> 11th, for the moſt Notorious and Barbarous Mur<g ref="char:EOLhyphen"/>ther of Sir <hi>Edmundbury Godfrey,</hi> the Twelfth of <hi>October</hi> laſt.</p>
+            <p>Who Suffered at TYBURN On <hi>Friday, February</hi> 21, 1678/9.</p>
+            <p>With an Account of their Lives, Conditions, Deportment after Sentence, Diſcourſes with Mr. Ordinary, and other moſt remarkable Circumſtances.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="authenticating_document">
+                        <p>Having at the Publiſhers Requeſt peruſed this Sheet, I do certifie, That the Diſcourſes betwixt me and the Priſoners, and other matters of Fact therein, are truly related.</p>
+                        <closer>
+                           <signed>
+                              <hi>Samuel Smith,</hi> Ordinary.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LICENSED. 1678/9.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1678/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93153:2"/>
+            <pb n="3" facs="tcp:93153:2"/>
+            <head>The Behaviour and Execution of <hi>Robert Green,</hi> and <hi>Laurence Hill,</hi> who Suffer'd at <hi>Tyburn Feb.</hi> 21. 1678/9.</head>
+            <p>THe Murther of that Noble true Eng<g ref="char:EOLhyphen"/>liſh Proteſtant Patriot, Sir <hi>Edmund<g ref="char:EOLhyphen"/>bury Godfrey,</hi> is now ſo notoriouſly known, not only throughout <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but I hope our Neighbour Na<g ref="char:EOLhyphen"/>tions too, (eſpecially of the Reformed Religion) that it will be wholly unneceſſary with any Ar<g ref="char:EOLhyphen"/>tifice of Rhetorick, to draw forth the Readers Compaſſionate Tears for that worthy Gentlemans Martyrdom, or raiſe up his juſt indignation againſt the baſe and barbarous Aſſaſſinates that were the Authors of it. It was on Saturday the 12th day of <hi>October,</hi> this Bloody Fact was Com<g ref="char:EOLhyphen"/>mitted, which long lay concealed in darkneſs, black as that which had over-ſpread their Souls who were concerned in it. But at length, that infinite ado<g ref="char:EOLhyphen"/>rable Power, the Avenger of Innocent Blood, who hears the cries of his Slaughtered Saints from under the Altar, and brings Light out of Darkneſs, was graciouſly pleaſed to make ſome diſcovery of this Helliſh Crime; upon which, ſeveral perſons were
+<pb n="4" facs="tcp:93153:3"/>committed to cuſtody. And of them, three on the 10th of this inſtant <hi>February,</hi> were brought to their Tryal at the Kings-Bench Bar at <hi>Weſtminſter,</hi> where after a fair hearing, and full Evidence, by a Jury conſiſting of perſons of Worth and Quality, they were found guilty, and next Morning received Sen<g ref="char:EOLhyphen"/>tence of Death. The particulars of the Proof and Tryal, we ſhall not intermeddle with, but rather refer the Reader for his full ſatisfaction therein, to that intire and perfect Narrative, which the World may ſhortly receive from the indubitable approba<g ref="char:EOLhyphen"/>tion of Authority.</p>
+            <p>Of theſe three perſons Attainted of the Felony and Murther, one (on ſome important conſidera<g ref="char:EOLhyphen"/>tions) is (at leaſt for ſome time) thought fit to be graciouſly Reprieved. An acount of the other two, <hi>viz. Robert Green</hi> and <hi>Laurence Hill,</hi> as to their Behaviour, <hi>&amp;c.</hi> after Sentence till Execution, we ſhall briefly, but moſt truly and impartially give you.</p>
+            <p>
+               <hi>Robert Green</hi> was an Iriſh-man born, his Father a Proteſtant, as himſelf acknowledged, but his Mo<g ref="char:EOLhyphen"/>ther (whoſe weaker Sex rendred her more lyable to ſuch abſurd deluſions) a Papiſt, who bred him up with an Uncle of his, in the Popiſh Hereſie, though his Education was ſo mean, that he could neither Write nor Read. But where <hi>Ignorance</hi> is celebrated as the Mother of Devotion, he was ſo much the apter Inſtrument for Jeſuitical Engines of ſubtilty to make uſe of. His aforeſaid Uncle inſtructed him in the common Notions and Prayers
+<pb n="5" facs="tcp:93153:3"/>of the Romiſh Superſtition; and he had his abode in <hi>Ireland,</hi> till he was 16 or 18 years old, being now 54 years of Age.</p>
+            <p>They being all after Condemnation kept ſepa<g ref="char:EOLhyphen"/>rately in <hi>Newgate,</hi> Mr. <hi>Ordinary</hi> according to his place, and ready inclinations to Chriſtian Charity, offering him his Aſſiſtance, Advice, Exhortations, and Prayers, he very modeſtly accepted of his vi<g ref="char:EOLhyphen"/>ſits; who frequently exhorted him (as the firſt ſtep to a ſincere and hearty Repentance) to unburthen his Conſcience, by a free, full, and ingenuous Con<g ref="char:EOLhyphen"/>feſſion of the horrid Murther for which he ſtood Condemned, and juſtly was to ſuffer, uſing all the perſwaſive Arguments he could to that purpoſe. But though he ſeemed to hearken to his Admoniti<g ref="char:EOLhyphen"/>ons, yet could he not be prevailed upon therein, but rather appeared to ſtand it out in ſelf-juſtifica<g ref="char:EOLhyphen"/>tion of his Innocence as to that particular. Which (as Mr. <hi>Ordinary</hi> very well obſerved unto, and preſſed upon him) could not be (conſidering the plainneſs of the Evidence, and apparentneſs of the Crime and his Guilt) but upon one, or all of theſe three Reaſons, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That either they were under an Oath of Se<g ref="char:EOLhyphen"/>crecy, which (as he truly told him) was a wicked Oath, and in that caſe not at all obligatory.</p>
+            <p n="2">2. Or that betwixt the time of the Murther com<g ref="char:EOLhyphen"/>mitted, and that of their Apprehenſion, ſome Prieſt had given them a pretended Abſolution, and ſo they conceited themſelves now Innocent: which Mr. <hi>Ordinary</hi> had the more reaſon to urge, becauſe
+<pb n="6" facs="tcp:93153:4"/>of ſome former experiences he had had of common Felons, who in ſuch caſe had reſolutely denyed even at place of Execution, with their laſt breath, thoſe very Crimes, which but ſome days before they had freely Confeſſed to himſelf; and that meerly on the reaſon aforeſaid. Which there is good rea<g ref="char:EOLhyphen"/>ſon to believe, not only from his irreprochable Teſtimony, but even from that Popiſh Doctrine which ſome of them have not bluſht to aſſert, ☞ <hi>Quod non peccat mortalitèr, qui negat ſe admi<g ref="char:EOLhyphen"/>ſiſſe peccatum Mortale, alias legitime Confeſſum,</hi> Navar. in Man. Cap. 21. Num. 38. <hi>That Man ſin<g ref="char:EOLhyphen"/>neth not mortally, who having ſhriven himſelf of ſome Mortal ſin, denies afterwards that he was ever guilty of that ſin.</hi>
+            </p>
+            <p n="3">3. Or laſtly, That they believed it to be a me<g ref="char:EOLhyphen"/>ritorious act to kill an Heretick, as they call every Proteſtant; for ſo too runs their Helliſh Doctrine<g ref="char:punc">▪</g> 
+               <hi>That any private man may lawfully Take, Spoil, and <hi>Kill</hi> ſuch Hereticks as are ſo denounced to be, and burn their Houſes over their Heads</hi>—Symancha Inſt. Cathol. <hi>Cap.</hi> 45. <hi>Numb.</hi> 13.</p>
+            <p>To all which he declined to anſwer much in par<g ref="char:EOLhyphen"/>ticular, but onely gave a general denial, though he did confeſs that in other matters he had been a a great ſinner againſt God, <hi>&amp;c.</hi> And upon ſome occaſional diſcourſe, juſtifying himſelf from ſome particular ſins, did declare that he accounted For<g ref="char:EOLhyphen"/>nication (and much more Adultery) not to be Venial, but mortal ſins; nor did believe any ſin to be Venial in its own nature. He alſo affirmed, that
+<pb n="7" facs="tcp:93153:4"/>he did not believe ſome of the groſſeſt points of Popery; yet ſaid, he was reſolved to live and die in the Roman Catholick Religion, (as he called it) becauſe he was born and bred in it. To which Mr. Ordinary moſt appoſitely anſwered, and told him, that was no argument; for then he might like<g ref="char:EOLhyphen"/>wiſe reſolve to live and die in ſin, becauſe born in, and too much accuſtomed to that alſo. He re<g ref="char:EOLhyphen"/>plied onely, That he would venture his Eternal State in cleaving to the Religion he had been bred in, and would hear no Arguments to the contra<g ref="char:EOLhyphen"/>ry.</p>
+            <p>Mr. Ordinary yet failed not daily to viſit him, inſtructing and exhorting him to Repentance, and Faith in the alone all-ſufficient merits of Chriſt. To which he was very attentive, as alſo to the Exhortations of another Reverend and Worthy Di<g ref="char:EOLhyphen"/>vine ſent to aſſiſt in that work of Charity, and joyned with much ſeeming affection in Prayer with them. And ſo thanking the Ordinary on the Thurſday for his great pains, and ſaying he would excuſe him from attending him at the place of Ex<g ref="char:EOLhyphen"/>ecution, yet in the mean time deſired his Prayers, took his leave of him.</p>
+            <p>
+               <hi>Laurence Hill,</hi> the other unhappy Criminal, was born and bred up in the Popiſh way, and reſolved likewiſe to live and die therein. He declared that he was not a Shoomaker, as hath been reported, but put forth to be a Servant about 13 years of age, and ſucceſſively continued in that condition, (at leaſt till very lately) being 34 years old at the
+<pb n="8" facs="tcp:93153:5"/>time of his death. He would not (though much pains and many ſuch Arguments as to the other, too tedious here to be related, were uſed to him) confeſs the Crime for which he ſuffered; but in general, that he had been a great ſinner; and par<g ref="char:EOLhyphen"/>ticularly ſaid, that he never wrong'd any perſon, but one of a very inconſiderable ſum, (which he ſpecified) and of which (he ſaid) he had lately made reſtitution.</p>
+            <p>He would not admit any Proteſtant Divine to pray with, yet deſired their Prayers at home for him; and ſo thanking Mr. Ordinary for his pains, and praying God to reward him, took his leave of him, excuſing him likewiſe from further atten<g ref="char:EOLhyphen"/>dance.</p>
+            <p>On Friday the 21th of <hi>February</hi> they were both pretty early in the morning convey'd in a Cart to <hi>Tyburn,</hi> where, after very few words, and ſome ſhort private Prayers, they were Executed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93153:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
